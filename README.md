@@ -1,8 +1,6 @@
-## Hi, I'm Ughur Sadikhli
+Hi, I'm Ughur Sadikhli
 
-
-
-Frontend Developer  
+Developer  
 I write clean, fast, maintainable code.
 
 No unnecessary complexity.
